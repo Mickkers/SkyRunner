@@ -9,6 +9,7 @@
 - Move - A/D
 - Jump - Spacebar
 - Shoot - Enter
+- Reload - R
 
 ## Features
 - Fast paced movement
