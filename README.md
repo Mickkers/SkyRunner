@@ -1,4 +1,4 @@
-# SkyRunner
+# Sky Runner
 <img src="https://raw.githubusercontent.com/Mickkers/Mickkers/main/Sky%20Runner.gif" height='250'/>
 
 2D endless Platformer made in Unity.
